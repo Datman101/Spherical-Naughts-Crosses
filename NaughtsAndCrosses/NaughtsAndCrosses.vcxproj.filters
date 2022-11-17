@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NaughtsAndCrosses.cpp">
+    <ClCompile Include="NoughtsAndCrosses.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
