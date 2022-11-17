@@ -237,7 +237,7 @@ int main()
     int cur = 0;
     bool won = false;
 
-    std::cout << "Welcome to spherical chess: It's too complicated for me to explain, so have fun learning :)";
+    std::cout << "Welcome to spherical naughts & crosses: It's too complicated for me to explain, so have fun learning :)";
     std::cout << "X plays first, and turns alternate from there: enter the number corresponding to where you want to place your piece, as shown in the grid below....";
     std::cout << "\n 1  | 2  | 3  | 4   \n 5  | 6  | 7  | 8  \n 9  | 10 | 11 | 12\n 13 | 14 | 15 | 16\n";
 
